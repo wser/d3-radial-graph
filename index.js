@@ -3,7 +3,7 @@ import './style.css';
 
 // Write Javascript code!
 const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+appDiv.innerHTML = `<h1>D3 radial graph</h1>`;
 
 let height = 700; //+svg.attr("height");
 let width = 800; //+svg.attr("width");
